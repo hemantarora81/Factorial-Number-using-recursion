@@ -13,7 +13,6 @@ public class Factorial_Number {
     }
 
     public static void main(String[] args) {
-        int i ;
         int fact = 1;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Number to get Factorial");
